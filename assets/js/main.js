@@ -1021,7 +1021,7 @@ const LazyLoad = {
 // ========================================
 
 const WhatsApp = {
-  phone: '919876543210', // Replace with actual phone number
+  phone: '9000682654', // Replace with actual phone number
   
   init() {
     this.bindEvents();
